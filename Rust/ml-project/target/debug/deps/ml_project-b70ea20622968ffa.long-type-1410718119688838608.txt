@@ -1,0 +1,1 @@
+linfa::prelude::Fit<ArrayBase<OwnedRepr<f64>, Dim<[usize; 2]>>, ArrayBase<OwnedRepr<usize>, Dim<[usize; 2]>>, linfa_logistic::error::Error>
